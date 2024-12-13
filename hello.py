@@ -1,4 +1,4 @@
-def qft():
+def qft(x):
     print("hello")
     pass
 
